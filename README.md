@@ -4,7 +4,9 @@
 - 🌱 I’m currently learning UnrealEngine
 - If you want to contact with me.. send email to nth0310@naver.com
  
-<table><tr><td class="border_l border_r border_t border_b selected" style="text-align: left;"><div class="wrap"><div style="margin: 10px 5px;"></div></div></td></tr><tr><td class="border_l border_r border_t border_b selected" style="text-align: left;"><div class="wrap"><div style="margin: 10px 5px;"></div></div></td></tr><tr><td class="border_l border_r border_t border_b selected" style="text-align: left;"><div class="wrap"><div style="margin: 10px 5px;"></div></div></td></tr></table>
+ | Type      | Date              | Contents                       | Organization                 |
+|-----------|-------------------|--------------------------------|------------------------------|
+| Education | 2014.3   ~ 2020.2 | Department of Game Engineering | Korea Polytechnic University |
  
 [![taehyun1234's GitHub stats](https://github-readme-stats.vercel.app/api?username=taehyun1234)](https://github.com/taehyun1234/github-readme-stats)
 
