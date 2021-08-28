@@ -2,8 +2,9 @@
 - 👀 I’m interested in C++, 3D Programming, Game Engine(Unity, Unreal), Computer Science
 - 💻 My Major is Game Engineering
 - 🌱 I’m currently learning UnrealEngine
-- My Youtube channel https://www.youtube.com/channel/UCj8fv9fjrNXbEjA7BGs_h1g
 - If you want to contact with me.. send email to nth0310@naver.com
+ 
+<table><tr><td class="border_l border_r border_t border_b selected" style="text-align: left;"><div class="wrap"><div style="margin: 10px 5px;"></div></div></td></tr><tr><td class="border_l border_r border_t border_b selected" style="text-align: left;"><div class="wrap"><div style="margin: 10px 5px;"></div></div></td></tr><tr><td class="border_l border_r border_t border_b selected" style="text-align: left;"><div class="wrap"><div style="margin: 10px 5px;"></div></div></td></tr></table>
  
 [![taehyun1234's GitHub stats](https://github-readme-stats.vercel.app/api?username=taehyun1234)](https://github.com/taehyun1234/github-readme-stats)
 
