@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @taehyun1234
-- 👀 I’m interested in C++, 3D Programming, Game Engine(Unity, Unreal), Computer Science
+- 👀 I’m interested in C++, 3D Programming, Game Engine(Unity, Unreal), Computer Science, Design Pattern
 - 💻 My Major is Game Engineering
 - 🌱 I’m currently learning UnrealEngine
 - gitlab https://gitlab.com/nth0310
