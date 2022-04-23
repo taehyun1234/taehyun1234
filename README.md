@@ -16,7 +16,7 @@
 |-----------|-------------------|--------------------------------|------------------------------|
 | Education | 2014.3   ~ 2020.2 | Department of Game Engineering | Korea Polytechnic University |
 | Employment | 2020.3   ~ 2022.1 | Equipment SW Engineer | TSE |
-| Employment | 2022.2   ~  | Game Client Programmer | DoubleUGames |
+
 
  
 [![taehyun1234's GitHub stats](https://github-readme-stats.vercel.app/api?username=taehyun1234)](https://github.com/taehyun1234/github-readme-stats)
