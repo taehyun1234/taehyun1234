@@ -15,14 +15,6 @@
  | Type      | Date              | Contents                       | Organization                 |
 |-----------|-------------------|--------------------------------|------------------------------|
 | Education | 2014.3   ~ 2020.2 | Department of Game Engineering | Korea Polytechnic University |
-| Employment | 2020.3   ~ 2022.1 | Equipment SW Engineer | TSE |
-
-
- 
-[![taehyun1234's GitHub stats](https://github-readme-stats.vercel.app/api?username=taehyun1234)](https://github.com/taehyun1234/github-readme-stats)
-
-
-[![Today Visited](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftaehyun1234&count_bg=%2379C83D&title_bg=%23B63939&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 One Day One Commit!!
 
